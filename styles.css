@@ -1,0 +1,62 @@
+/* Media Query */
+
+
+
+
+
+/* Nav Bar */
+.container-fluid
+{
+  padding: 0rem;
+}
+.navbar{
+  padding: 0 5rem;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  color: #fff;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-family: 'Montserrat-light', sans-serif;
+}
+
+a.navbar-brand:link
+{
+}
+a.navbar-brand:hover
+{
+  text-decoration: none;
+}
+
+
+/* Title */
+.Our-Menu
+{
+  font-family: 'Padauk', sans-serif;
+  font-weight: 900;
+}
+
+#Title
+{
+  padding: 20px 0px;
+}
+
+
+/* Body */
+.Chicken-Beef-Sushi
+{
+  padding: 10px;
+  margin: 15px;
+  height: auto;
+  background-color: #C7AD7F;
+}
+
+.Chicken-header , .Beef-header , .Sushi-header
+{
+  font-weight: bold;
+}
